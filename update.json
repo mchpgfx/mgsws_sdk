@@ -1,0 +1,44 @@
+{
+  "windows": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgsws_sdk_win_x64",
+          "platform": "x64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgsws_sdk_win_x64.7z",
+          "digest": "BEF56C48A33C3B853471255C7616095AF5A45F6FA3DD3126FAF3A4F8C05D8E7D",
+          "size": "511 MiB"
+        }
+      ]
+    }
+  ],
+  "linux": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgsws_sdk_linux_x64",
+          "platform": "x64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgsws_sdk_linux_x64.tar.gz",
+          "digest": "7FB5C6A6AA5BEB23DC28023ED3710A6C831C9C4A5C639837F2353BE3EB775B47",
+          "size": "370 MiB"
+        }
+      ]
+    }
+  ],
+  "macos": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgsws_sdk_macos_arm64",
+          "platform": "arm64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgsws_sdk_macos_arm64.tar.gz",
+          "digest": "8A4B71553A55E1AEE757BC3C80B5105A2065BC0F1872764DB968AD25E7B2AAF5",
+          "size": "421 MiB"
+        }
+      ]
+    }
+  ]
+}
