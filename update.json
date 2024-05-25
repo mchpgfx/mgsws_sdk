@@ -1,0 +1,44 @@
+{
+  "windows": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgs_simulator_sdk_win_x64",
+          "platform": "x64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgs_simulator_sdk_win_x64.7z",
+          "digest": "692B3F618FFC6E11655F64E977FF915C84C079BFAFE6AB3EE4F6CB52D123D4B0",
+          "size": "414 MiB"
+        }
+      ]
+    }
+  ],
+  "linux": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgs_simulator_sdk_linux_x64",
+          "platform": "x64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgs_simulator_sdk_linux_x64.tar.gz",
+          "digest": "",
+          "size": "0 MiB"
+        }
+      ]
+    }
+  ],
+  "macos": [
+    {
+      "version": "1.0.0",
+      "packages": [
+        {
+          "label": "mgs_simulator_sdk_macos_arm64",
+          "platform": "arm64",
+          "url": "https://github.com/mchpgfx/mgsws_sdk/releases/download/1.0.0/mgs_simulator_sdk_macos_arm64.tar.gz",
+          "digest": "",
+          "size": "0 MiB"
+        }
+      ]
+    }
+  ]
+}
